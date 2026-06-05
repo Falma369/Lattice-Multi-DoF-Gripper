@@ -33,7 +33,7 @@ This repository contains the code and resources for the Lattice Multi-DoF Grippe
 ---
 
 ### 4. `cad_models`
-**Key CAD Components (Autodesk Fusion 360):** The solid components designed for structural support and mechatronic integration can be found on the Fusion360 of the CREATE Lab in the "Fexure rbtic hand' folder under the name "Tifaine Mezencev".
+**Key CAD Components (Autodesk Fusion 360):** The solid components designed for structural support and mechatronic integration can be found on the Fusion360 of the CREATE Lab in the "Fexure robtic hand' folder under the name "Tifaine Mezencev".
 
 ---
 
