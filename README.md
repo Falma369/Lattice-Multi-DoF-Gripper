@@ -23,16 +23,7 @@ This repository contains the code and resources for the Lattice Multi-DoF Grippe
 
 ---
 
-### 3. `Lattice Joint 20260306`
-**Matlab code for the lattice generation** This folder contains the scripts required to generate the lattice structures.
-
-**Usage:**
-1. Open MATLAB and navigate to this folder, open the `Joint_1Dof_SP_Lattice_20260304` file.
-2. Adjust the desired parameters and the saving location for the datas in the script to modify the resulting generated lattice structure.
-3. Run the `Joint_1Dof_SP_Lattice_20260304` file.
----
-
-### 4. `cad_models`
+### 3. `cad_models`
 **Key CAD Components (Autodesk Fusion 360):** The solid components designed for structural support and mechatronic integration can be found on the Fusion360 of the CREATE Lab in the "Fexure robtic hand' folder under the name "Tifaine Mezencev".
 
 ---
